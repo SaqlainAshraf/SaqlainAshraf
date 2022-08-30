@@ -121,7 +121,7 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-<img src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/SaqlainAshraf/SaqlainAshraf/blob/output/github-contribution-grid-snake.svg" />
 </p>
 <br>
 
