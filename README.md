@@ -7,8 +7,7 @@
 	
 
 ### I'm a Mobile App Developer and Teacher!
-- 🔭 I’m currently working as Mobile App Developer @A3 Programmers.
-- 🌱 I’m currently expanding my knowledge in Flutter.
+- 🔭 I’m currently working as Mobile App Developer
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
